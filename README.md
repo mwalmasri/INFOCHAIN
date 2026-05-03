@@ -19,7 +19,7 @@ InfoChain quantifies and settles **information value** on-chain using:
 ### Option A: Docker (Zero Setup)
 ```bash
 # Clone & start
-git clone https://github.com/yourorg/infochain.git
+git clone https://github.com/mwalmasri/infochain.git
 cd infochain
 docker-compose up -d
 
